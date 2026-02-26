@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "ultra soul",
+  "base_artist": "B'z",
+  "createdAt": "2026-02-26T01:16:33.223264Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ultra soul",
+      "artist": "B'z",
+      "has_synced": false,
+      "path": "select/01_ultra_soul_B'z.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ultra soul",
+      "artist": "B'z",
+      "has_synced": true,
+      "path": "select/02_ultra_soul_B'z.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ultra soul",
+      "artist": "B'z",
+      "has_synced": true,
+      "path": "select/03_ultra_soul_B'z.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ultra soul 2011",
+      "artist": "B'z",
+      "has_synced": false,
+      "path": "select/04_ultra_soul_2011_B'z.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ultra soul",
+      "artist": "B'z",
+      "has_synced": true,
+      "path": "select/05_ultra_soul_B'z.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ultra soul",
+      "artist": "B'z",
+      "has_synced": true,
+      "path": "select/06_ultra_soul_B'z.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ultra soul",
+      "artist": "bz",
+      "has_synced": true,
+      "path": "select/07_ultra_soul_bz.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ultra soul",
+      "artist": "B'z - Singles",
+      "has_synced": true,
+      "path": "select/08_ultra_soul_B'z_-_Singles.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Ultra Soul",
+      "artist": "B'z - MiniAlbum",
+      "has_synced": true,
+      "path": "select/09_Ultra_Soul_B'z_-_MiniAlbum.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "31.B'z - ultra soul(2001.03.14",
+      "artist": "B'z",
+      "has_synced": true,
+      "path": "select/10_31.B'z_-_ultra_soul(2001.03.14_B'z.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ultra soul",
+      "artist": "B'z",
+      "has_synced": false,
+      "path": "select/pl_01_ultra_soul_B'z.txt"
+    }
+  ]
+}
